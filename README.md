@@ -140,7 +140,7 @@
 >>>```
 >>>#### Gnome
 >>>```
->>>grub-mkconfig -o /boot/grub/grub.cfg
+>>>pacman -S gnome
 >>>```
 >>### Post install
 >>Vamos a reiniciar el equipo y quitar el usb con la imagen de arch, si inicia correctamente el sistema es porque la instalacion se hizo correctamente
